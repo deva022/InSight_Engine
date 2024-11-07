@@ -1,0 +1,10 @@
+{
+  "name": "search-engine-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongoose": "^6.13.3"
+  }
+}
